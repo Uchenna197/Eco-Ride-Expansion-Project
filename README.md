@@ -1,24 +1,33 @@
-# Eco-Ride-Case-Study
-## Eco-Ride Project
+# Eco-Ride Expansion Project
 
-Eco-Ride is a mock Business Analysis project focused on launching a sustainable urban mobility solution using electric bikes and scooters.
+## Overview
+Eco-Ride is an end-to-end Business Analysis case study for launching a sustainable electric bike and scooter solution to address urban traffic congestion and environmental impact.
 
 ## Business Problem
-Urban areas face increasing traffic congestion, high transportation costs, and environmental pollution. Existing transport options are either inefficient or environmentally harmful.
+Growing cities face increased congestion, pollution, and inefficient short-distance transport options.
 
-## Project Objective
-To design a digital, eco-friendly ride solution that reduces congestion, lowers emissions, and provides affordable mobility for city residents.
+## Objective
+Design a scalable, user-friendly mobility solution that reduces emissions while providing affordable transportation.
 
 ## My Role
-Business Analyst  
-Responsible for requirements elicitation, stakeholder analysis, solution design, testing support, and post-implementation evaluation.
+Business Analyst – responsible for:
+- Stakeholder analysis
+- Requirements elicitation & documentation
+- Process modeling
+- Solution design support
+- UAT planning and validation
+- Post-implementation evaluation
 
-## Methodologies & Tools
-- BABOK-aligned Business Analysis
-- Stakeholder Interviews & Workshops
-- Process Modeling
-- Requirements Documentation
-- UAT Planning
+## Key Deliverables
+- Business Case & Scope Definition
+- BRD, Functional & Non-Functional Requirements
+- Stakeholder Register & RACI
+- Process Flows & Wireframes
+- UAT Plan & Test Cases
+- Lessons Learned & KPI Evaluation
 
-## Project Structure
-This repository documents the project end-to-end, from initiation through post-implementation review.
+## Tools & Techniques
+BABOK-aligned analysis, stakeholder interviews, workshops, process modeling, requirements traceability, UAT.
+
+## Repository Structure
+Each folder represents a phase of the Business Analysis lifecycle, documented end-to-end.

@@ -3,7 +3,7 @@
 
 ## 1. Project Overview
 **Eco-Ride** is a conceptual ride-sharing platform designed to provide **safe, reliable, and environmentally-friendly urban transportation**.  
-The project simulates a full **Business Analyst engagement**, covering all phases from **requirements elicitation** to **post-implementation lessons learned**.
+The project covers all phases from **requirements elicitation** to **post-implementation lessons learned**.
 
 **Key Objectives:**
 - Enable seamless ride booking for riders
